@@ -1,2 +1,4 @@
 # Assessing Risk
-Key Objectives: Phishing Attack Remediation, Policy Review
+Key Objectives: 
+  - Environment: Windows 10 Virtual Machine
+  - Risk Managment: Policy Review |Phishing Attack Remediation
