@@ -1,2 +1,2 @@
-# AssessingRisk
-Phishing Attack, Policy Review
+# Assessing Risk
+Key Objectives: Phishing Attack Remediation, Policy Review
